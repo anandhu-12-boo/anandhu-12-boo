@@ -4,7 +4,7 @@
 
 - Tech enthusiast
 - Full stack developer
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandhu12-boo&label=Profile%20views&color=0e75b6&style=flat" alt="anandhu-12-boo" /> </p>
 ## Connect with me
 
 [![Email](https://img.shields.io/badge/email-242938?style=for-the-badge&logo=gmail)](mailto:anandhun292@gmail.com)
